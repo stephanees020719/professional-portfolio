@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "The code provided is an HTML ,CSS, JavaScripts that represents a portfolio website. It includes sections for an \"About Me\" description, a list of technical skills, a section showcasing projects, and a footer with the author's name and a link to their LinkedIn profile.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
