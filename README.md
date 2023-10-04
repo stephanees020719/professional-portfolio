@@ -18,4 +18,4 @@ Unsplash.com
 
 
 Wireframe: 
-![Alt text](wareframe.png)
+![Alt text](wireframe.png)
